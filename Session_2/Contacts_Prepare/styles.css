@@ -1,0 +1,14 @@
+div {
+    display: flex;
+    justify-content: space-between;
+    width: 250px;
+}
+
+button {
+    width: 100px;
+    height: 100px;
+}
+
+#contactsList {
+    flex-direction: column;
+}
